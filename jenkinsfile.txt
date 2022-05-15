@@ -1,6 +1,6 @@
 pipeline {
 environment {
-	def APP_NAME = "wdioautomation"
+	def APP_NAME = "newrepo"
 	def GIT_REPO_NAME = "gkpandi"
 	def DEPLOY_ENV = "dev"
 }
